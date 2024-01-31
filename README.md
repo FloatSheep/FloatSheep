@@ -18,7 +18,7 @@
    - [jerryc127/hexo-theme-butterfly](https://github.com/jerryc127/hexo-theme-butterfly)
    - [Rock-Candy-Tea/hexo-moments-js](https://github.com/Rock-Candy-Tea/hexo-moments-js)
    - [HexoPlusPlus - theme](https://github.com/HexoPlusPlus/HexoPlusPlus)
-   - [theme-kaze/hexo-theme-kaze](https://github.com/theme-kaze/hexo-theme-kaze)
+   - [FloatSheep/BlogOnNpm](https://github.com/FloatSheep/BlogOnNpm)
    - And....
 
 
