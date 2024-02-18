@@ -10,7 +10,6 @@
 
 ## 🥱About me
 
-- Name: Yutong Woo
 - Nickname：FloatSheep (Hajeekn)
 - Hometown: Enshi, Hubei Province in China
 - Project(Developers & Contributors)
