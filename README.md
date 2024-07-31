@@ -29,5 +29,78 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 72.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 296 Contributions in the Year 2024
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 45 Public Repositories 
+ > 
+> 🔑 5 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                23 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+🌆 Daytime                168 commits         ██████████░░░░░░░░░░░░░░░   41.69 % 
+🌃 Evening                212 commits         █████████████░░░░░░░░░░░░   52.61 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Friday** 
+
+```text
+Monday                   36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Tuesday                  30 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Wednesday                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
+Thursday                 72 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.87 % 
+Friday                   114 commits         ███████░░░░░░░░░░░░░░░░░░   28.29 % 
+Saturday                 67 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
+Sunday                   34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
+**I Mostly Code in JavaScript** 
+
+```text
+JavaScript               12 repos            █████████░░░░░░░░░░░░░░░░   34.29 % 
+HTML                     5 repos             ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
+CSS                      4 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.43 % 
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+Rust                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
+
+
+ Last Updated on 31/07/2024 09:47:02 UTC
 <!--END_SECTION:waka-->
 
