@@ -25,3 +25,9 @@
 <div align="center">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FloatSheep" />
 </div>
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
