@@ -29,6 +29,8 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-155%20hrs%2025%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -41,6 +43,45 @@
  > 
 > 🔑 7 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                34 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
+🌆 Daytime                196 commits         ███████████░░░░░░░░░░░░░░   43.27 % 
+🌃 Evening                223 commits         ████████████░░░░░░░░░░░░░   49.23 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   42 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
+Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
+Wednesday                48 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+Thursday                 71 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Friday                   101 commits         ██████░░░░░░░░░░░░░░░░░░░   22.30 % 
+Saturday                 105 commits         ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
+Sunday                   53 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -58,6 +99,6 @@ TypeScript               2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 08/09/2024 18:40:41 UTC
+ Last Updated on 09/09/2024 18:42:47 UTC
 <!--END_SECTION:waka-->
 
