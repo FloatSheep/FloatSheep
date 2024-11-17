@@ -23,15 +23,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-240%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-244%20hrs%204%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 121.0 kB Used in GitHub's Storage 
- > 
-> 🏆 351 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,16 +64,24 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 hrs 3 mins        ███████████████████░░░░░░   77.22 % 
+TypeScript               26 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
+HTML                     15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   3 hrs 47 mins       ████████████████████████░   95.93 % 
+VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+InfinityLink             1 hr 49 mins        ████████████░░░░░░░░░░░░░   46.13 % 
+FloatSheep's Blog        41 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.52 % 
+Shiro                    33 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+vitepress-theme-curve    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 % 
+js-framework             11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 57 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,6 +101,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 16/11/2024 18:42:47 UTC
+ Last Updated on 17/11/2024 18:43:10 UTC
 <!--END_SECTION:waka-->
 
