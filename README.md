@@ -64,21 +64,16 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-TypeScript               1 hr 42 mins        █████████████░░░░░░░░░░░░   51.27 % 
-Vue.js                   1 hr                ████████░░░░░░░░░░░░░░░░░   30.16 % 
-HTML                     25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
-Markdown                 5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.97 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-amylasejs                3 hrs 6 mins        ███████████████████████░░   93.84 % 
-amylase-speak-sender     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 19 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,6 +93,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 05/01/2025 18:41:09 UTC
+ Last Updated on 06/01/2025 18:44:29 UTC
 <!--END_SECTION:waka-->
 
