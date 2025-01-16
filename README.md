@@ -23,13 +23,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-257%20hrs%2033%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 121.2 kB Used in GitHub's Storage 
+ > 
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,16 +66,20 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               49 mins             ████████████░░░░░░░░░░░░░   46.68 % 
+Vue.js                   24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
+HTML                     14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
+Markdown                 10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.48 % 
+CSS                      7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  1 hr 46 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+amylasejs                1 hr 46 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 46 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,6 +99,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 15/01/2025 18:42:34 UTC
+ Last Updated on 16/01/2025 18:42:51 UTC
 <!--END_SECTION:waka-->
 
