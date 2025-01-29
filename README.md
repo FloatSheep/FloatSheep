@@ -23,15 +23,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-283%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-286%20hrs%2059%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 121.2 kB Used in GitHub's Storage 
- > 
-> 🏆 1 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -104,6 +102,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 28/01/2025 18:44:19 UTC
+ Last Updated on 29/01/2025 18:43:11 UTC
 <!--END_SECTION:waka-->
 
