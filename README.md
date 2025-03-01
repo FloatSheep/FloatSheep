@@ -23,7 +23,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-314%20hrs%2022%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-317%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,16 +64,25 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 1 min         █████████████████░░░░░░░░   66.51 % 
+Markdown                 25 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Vue.js                   23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.79 % 
+TypeScript               11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.26 % 
+JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   2 hrs 26 mins       ████████████████████░░░░░   80.24 % 
+VS Code                  36 mins             █████░░░░░░░░░░░░░░░░░░░░   19.76 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+time-widget              1 hr 41 mins        ██████████████░░░░░░░░░░░   55.40 % 
+t-w                      48 mins             ███████░░░░░░░░░░░░░░░░░░   26.27 % 
+tcp-brutal               21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.55 % 
+calculator               8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+plugin-plaza             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 3 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,6 +102,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 28/02/2025 18:44:55 UTC
+ Last Updated on 01/03/2025 18:41:47 UTC
 <!--END_SECTION:waka-->
 
