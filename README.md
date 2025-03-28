@@ -23,11 +23,15 @@
 ---
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2048%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 80.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,6 +39,45 @@
  > 
 > 🔑 8 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+🌆 Daytime                217 commits         ███████████░░░░░░░░░░░░░░   45.78 % 
+🌃 Evening                221 commits         ████████████░░░░░░░░░░░░░   46.62 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   44 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+Tuesday                  33 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+Wednesday                50 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
+Thursday                 78 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+Friday                   85 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.93 % 
+Saturday                 114 commits         ██████░░░░░░░░░░░░░░░░░░░   24.05 % 
+Sunday                   70 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -52,6 +95,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 27/03/2025 18:46:28 UTC
+ Last Updated on 28/03/2025 18:48:25 UTC
 <!--END_SECTION:waka-->
 
