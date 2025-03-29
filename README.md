@@ -23,15 +23,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-318%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-321%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 80.1 kB Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,16 +64,21 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 26 mins       ███████████████████████░░   91.72 % 
+JSON                     13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   2 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Microsoft-Activation-Scri1 hr 41 mins        ████████████████░░░░░░░░░   63.58 % 
+memreduct                41 mins             ███████░░░░░░░░░░░░░░░░░░   26.06 % 
+time-widget              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+TranslucentTB            3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
+Remove-MS-Edge           1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,6 +98,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 28/03/2025 18:48:25 UTC
+ Last Updated on 29/03/2025 18:43:23 UTC
 <!--END_SECTION:waka-->
 
