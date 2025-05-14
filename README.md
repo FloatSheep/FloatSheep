@@ -23,15 +23,13 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-347%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-348%20hrs%208%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 80.2 kB Used in GitHub's Storage 
- > 
-> 🏆 12 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -66,17 +64,17 @@ Sunday                   70 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    20 mins             █████████████████████████   100.00 % 
+Other                    52 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   20 mins             █████████████████████████   100.00 % 
+Chrome                   52 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-twilightforest-unofficial20 mins             █████████████████████████   99.07 % 
-ConnectX                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+twilightforest-unofficial51 mins             █████████████████████████   99.64 % 
+ConnectX                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 
 💻 Operating System: 
-Windows                  20 mins             █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,6 +94,6 @@ Rust                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 13/05/2025 18:47:51 UTC
+ Last Updated on 14/05/2025 18:47:38 UTC
 <!--END_SECTION:waka-->
 
