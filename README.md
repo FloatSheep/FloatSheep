@@ -31,6 +31,8 @@
 
 > 📦 86.0 kB Used in GitHub's Storage 
  > 
+> 🏆 64 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 46 Public Repositories 
@@ -64,18 +66,16 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 4 mins         █████████████████████████   98.49 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Qwen-Vercel-Middleware   1 hr 4 mins         █████████████████████████   98.49 % 
-hexo-theme-ark-demo      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 5 mins         █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,6 +95,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 16/06/2025 18:50:50 UTC
+ Last Updated on 17/06/2025 18:50:34 UTC
 <!--END_SECTION:waka-->
 
