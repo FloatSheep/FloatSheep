@@ -23,13 +23,15 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-385%20hrs%2044%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-393%20hrs%2025%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 86.1 kB Used in GitHub's Storage 
+ > 
+> 🏆 68 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -64,16 +66,25 @@ Sunday                   71 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    5 hrs 32 mins       ██████████████████░░░░░░░   72.10 % 
+C++                      1 hr 6 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.37 % 
+Markdown                 39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
+PowerShell               11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+TypeScript               8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   7 hrs 20 mins       ████████████████████████░   95.61 % 
+VS Code                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Next.Blog                3 hrs 58 mins       █████████████░░░░░░░░░░░░   51.88 % 
+chromatic                44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+chromatic-code           33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+Qwen-Post-Summary        22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.90 % 
+S-inject                 22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  7 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,6 +104,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 23/06/2025 18:51:00 UTC
+ Last Updated on 24/06/2025 18:51:07 UTC
 <!--END_SECTION:waka-->
 
