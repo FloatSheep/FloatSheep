@@ -31,11 +31,9 @@
 
 > 📦 86.2 kB Used in GitHub's Storage 
  > 
-> 🏆 83 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 46 Public Repositories 
  > 
 > 🔑 9 Private Repositories 
  > 
@@ -66,25 +64,16 @@ Sunday                   83 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    4 hrs 49 mins       ███████████████████░░░░░░   75.98 % 
-JavaScript               1 hr 1 min          ████░░░░░░░░░░░░░░░░░░░░░   16.10 % 
-HTML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   5 hrs 55 mins       ███████████████████████░░   93.51 % 
-VS Code                  24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-time-widget              2 hrs 43 mins       ███████████░░░░░░░░░░░░░░   42.83 % 
-OneDrive-Worker-API      2 hrs 17 mins       █████████░░░░░░░░░░░░░░░░   36.12 % 
-PicGo                    43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.31 % 
-TranslucentTB            28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-rw.rs                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 20 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -104,6 +93,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 06/07/2025 18:47:33 UTC
+ Last Updated on 07/07/2025 18:51:03 UTC
 <!--END_SECTION:waka-->
 
