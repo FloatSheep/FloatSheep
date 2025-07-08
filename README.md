@@ -23,7 +23,7 @@
 ---
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-418%20hrs%2041%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-422%20hrs%2031%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -64,16 +64,23 @@ Sunday                   83 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    3 hrs 26 mins       ██████████████████████░░░   89.39 % 
+HTML                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   3 hrs 50 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+bv-noAreaUnlock          2 hrs 12 mins       ██████████████░░░░░░░░░░░   57.47 % 
+time-widget              1 hr 7 mins         ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+tgtalk-frontend          11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.80 % 
+OneDrive-Worker-API      8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 % 
+macaron-github-markdown-c3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,6 +100,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 07/07/2025 18:51:03 UTC
+ Last Updated on 08/07/2025 18:51:45 UTC
 <!--END_SECTION:waka-->
 
