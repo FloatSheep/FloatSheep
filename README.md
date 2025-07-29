@@ -2,6 +2,8 @@
    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7DD11&center=true&vCenter=true&width=435&lines=Floating+in+the+clouds~;I'm+glad+to+meet+you+again" /></a>
 </p>
 
+---
+
 ## 🥱About me
 
 - Nickname：FloatSheep (Hajeekn)
@@ -13,14 +15,9 @@
    - [HexoPlusPlus - theme](https://github.com/HexoPlusPlus/HexoPlusPlus)
    - And....
 
+---
 
 ## 📈Statistics
-
-<div align="center">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=FloatSheep" />
-</div>
-
----
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-487%20hrs%2020%20mins-blue)
