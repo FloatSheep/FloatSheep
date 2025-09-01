@@ -20,15 +20,13 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-568%20hrs%2058%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-569%20hrs%201%20min-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 86.5 kB Used in GitHub's Storage 
- > 
-> 🏆 102 Contributions in the Year 2025
+> 📦 86.4 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -63,16 +61,16 @@ Sunday                   83 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 12 mins        █████████████████████████   100.00 % 
+Other                    1 hr 15 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   1 hr 12 mins        █████████████████████████   100.00 % 
+Chrome                   1 hr 15 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-blog-v3                  1 hr 12 mins        █████████████████████████   100.00 % 
+blog-v3                  1 hr 15 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 12 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 15 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +90,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 31/08/2025 18:44:19 UTC
+ Last Updated on 01/09/2025 18:46:01 UTC
 <!--END_SECTION:waka-->
 
