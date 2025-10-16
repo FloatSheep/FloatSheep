@@ -20,6 +20,8 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-576%20hrs%2029%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 **🐱 My GitHub Data** 
@@ -61,16 +63,16 @@ Sunday                   83 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    10 mins             █████████████████████████   100.00 % 
+Other                    6 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   10 mins             █████████████████████████   100.00 % 
+Chrome                   6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Starward                 10 mins             █████████████████████████   100.00 % 
+Starward                 6 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.00 % 
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -90,6 +92,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 15/10/2025 18:49:02 UTC
+ Last Updated on 16/10/2025 18:49:12 UTC
 <!--END_SECTION:waka-->
 
