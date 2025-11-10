@@ -26,7 +26,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 86.5 kB Used in GitHub's Storage 
+> 📦 86.6 kB Used in GitHub's Storage 
  > 
 > 🏆 102 Contributions in the Year 2025
  > 
@@ -63,16 +63,16 @@ Sunday                   83 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Starward                 18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  18 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +92,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 18:43:47 UTC
+ Last Updated on 10/11/2025 18:48:42 UTC
 <!--END_SECTION:waka-->
 
