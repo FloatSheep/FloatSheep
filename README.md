@@ -63,20 +63,16 @@ Sunday                   83 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    36 mins             ███████████████████░░░░░░   74.26 % 
-HTML                     12 mins             ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-BetterRTX-Installer      39 mins             ████████████████████░░░░░   79.67 % 
-Starward                 6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.48 % 
-twinkle-tray             3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 % 
-FloatBlog                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,6 +92,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 23/11/2025 18:46:51 UTC
+ Last Updated on 24/11/2025 18:52:00 UTC
 <!--END_SECTION:waka-->
 
