@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-579%20hrs%2040%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-580%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
@@ -63,16 +63,23 @@ Sunday                   83 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    26 mins             ███████████████████████░░   92.65 % 
+HTML                     2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   28 mins             █████████████████████████   99.53 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Starward                 26 mins             ███████████████████████░░   92.65 % 
+Emote_Widget             1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   04.68 % 
+hazel                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+update.electronjs.org    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+diastase                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  29 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +99,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 29/11/2025 18:47:51 UTC
+ Last Updated on 30/11/2025 18:47:38 UTC
 <!--END_SECTION:waka-->
 
