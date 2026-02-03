@@ -20,6 +20,8 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-587%20hrs%2019%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -34,6 +36,45 @@
  > 
 > 🔑 9 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                36 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
+🌆 Daytime                248 commits         ███████████░░░░░░░░░░░░░░   43.21 % 
+🌃 Evening                287 commits         ████████████░░░░░░░░░░░░░   50.00 % 
+🌙 Night                  3 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   47 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 % 
+Tuesday                  34 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
+Wednesday                64 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
+Thursday                 86 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.98 % 
+Friday                   87 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.16 % 
+Saturday                 173 commits         ████████░░░░░░░░░░░░░░░░░   30.14 % 
+Sunday                   83 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Hong_Kong
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -51,6 +92,6 @@ Rust                     2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 01/02/2026 18:59:50 UTC
+ Last Updated on 03/02/2026 19:26:13 UTC
 <!--END_SECTION:waka-->
 
