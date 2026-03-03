@@ -63,20 +63,16 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 21 mins       █████████████████████████   98.89 % 
-Batchfile                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Capsulyric               1 hr 30 mins        ████████████████░░░░░░░░░   63.30 % 
-twinkle-tray             50 mins             █████████░░░░░░░░░░░░░░░░   35.62 % 
-auth                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
-devtools-detect          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 22 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,6 +92,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 02/03/2026 19:10:54 UTC
+ Last Updated on 03/03/2026 19:22:23 UTC
 <!--END_SECTION:waka-->
 
