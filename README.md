@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-633%20hrs%2048%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-636%20hrs%207%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,16 +63,24 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 57 mins        █████████████████████░░░░   84.43 % 
+Markdown                 12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.29 % 
+Batchfile                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   2 hrs 14 mins       ████████████████████████░   96.63 % 
+VS Code                  4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+node-keytar              1 hr 27 mins        ████████████████░░░░░░░░░   62.97 % 
+twinkle-tray             35 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Integrin                 4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+amylase-ui               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.32 % 
+fluentui                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.28 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +100,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 07/03/2026 18:56:01 UTC
+ Last Updated on 08/03/2026 18:57:49 UTC
 <!--END_SECTION:waka-->
 
