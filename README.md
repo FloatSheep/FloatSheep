@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-637%20hrs%202%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-639%20hrs%2057%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,16 +63,21 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 44 mins       ███████████████████████░░   93.82 % 
+TypeScript               10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   2 hrs 55 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Xiaomi-HyperOS-BootLoader1 hr 39 mins        ██████████████░░░░░░░░░░░   56.64 % 
+node-keytar              1 hr 14 mins        ███████████░░░░░░░░░░░░░░   42.36 % 
+openclaw                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Agents-M365Copilot       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Everywhere               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +97,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2026 19:00:13 UTC
+ Last Updated on 22/03/2026 19:02:14 UTC
 <!--END_SECTION:waka-->
 
