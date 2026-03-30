@@ -63,22 +63,16 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    56 mins             ███████████████████████░░   92.81 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   1 hr                █████████████████████████   99.55 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Xiaomi-HyperOS-BootLoader56 mins             ███████████████████████░░   92.81 % 
-Animated-Fluent-Emojis   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.27 % 
-pocket-id                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-homelab-export           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-LyricEase                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -98,6 +92,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 29/03/2026 19:08:46 UTC
+ Last Updated on 30/03/2026 19:34:47 UTC
 <!--END_SECTION:waka-->
 
