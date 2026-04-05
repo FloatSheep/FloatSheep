@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-642%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -63,16 +63,18 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 14 mins        █████████████████████████   100.00 % 
+Other                    1 hr 49 mins        ████████████████████████░   97.80 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-Chrome                   1 hr 14 mins        █████████████████████████   100.00 % 
+Chrome                   1 hr 51 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Xiaomi-HyperOS-BootLoader1 hr 14 mins        █████████████████████████   100.00 % 
+Xiaomi-HyperOS-BootLoader1 hr 17 mins        █████████████████░░░░░░░░   68.92 % 
+163-cg-auto-hoyo-games   34 mins             ████████░░░░░░░░░░░░░░░░░   31.08 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 51 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +94,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2026 19:08:16 UTC
+ Last Updated on 05/04/2026 19:09:58 UTC
 <!--END_SECTION:waka-->
 
