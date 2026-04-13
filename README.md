@@ -63,21 +63,16 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 20 mins       ████████████████████████░   94.72 % 
-TypeScript               7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.28 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   2 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-better-genshin-impact    2 hrs 1 min         ████████████████████░░░░░   81.31 % 
-163-cg-auto-hoyo-games   22 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-AstrBot                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
-NapCat-Docker            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 % 
-tts-samples              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 hrs 28 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -97,6 +92,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 12/04/2026 19:13:24 UTC
+ Last Updated on 13/04/2026 19:47:11 UTC
 <!--END_SECTION:waka-->
 
