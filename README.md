@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-645%20hrs%2019%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-648%20hrs%2032%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -63,16 +63,21 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    2 hrs 39 mins       █████████████████████░░░░   82.92 % 
+TypeScript               32 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.08 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   3 hrs 12 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+better-genshin-impact    2 hrs 6 mins        ████████████████░░░░░░░░░   65.46 % 
+HDiffPatch               37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
+chromatic                7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+advanced-DLLInjector     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+genshin_update           6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,6 +97,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 18/04/2026 19:14:12 UTC
+ Last Updated on 19/04/2026 19:13:45 UTC
 <!--END_SECTION:waka-->
 
