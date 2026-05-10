@@ -63,19 +63,16 @@ Sunday                   105 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    3 hrs 3 mins        █████████████████████████   99.68 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   3 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-MaaFramework             3 hrs 3 mins        █████████████████████████   99.68 % 
-astrbot_plugin_skill_lear0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
-astrbot_plugin_rgzlq     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 hrs 4 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,6 +92,6 @@ CSS                      3 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 09/05/2026 19:40:09 UTC
+ Last Updated on 10/05/2026 19:39:59 UTC
 <!--END_SECTION:waka-->
 
