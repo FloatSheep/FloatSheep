@@ -22,7 +22,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-674%20hrs%2036%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -63,19 +63,16 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    12 mins             █████████████████████░░░░   82.26 % 
-YAML                     2 mins              ████░░░░░░░░░░░░░░░░░░░░░   17.74 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-StarRailAssistant        7 mins              █████████████░░░░░░░░░░░░   51.00 % 
-Starward                 6 mins              ███████████░░░░░░░░░░░░░░   43.85 % 
-Collapse                 0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.15 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  15 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -95,6 +92,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 19/07/2026 19:39:42 UTC
+ Last Updated on 20/07/2026 20:06:03 UTC
 <!--END_SECTION:waka-->
 
