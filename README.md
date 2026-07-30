@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-190%20hrs%2057%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2052%20mins-blue?style=flat)
 
@@ -65,17 +65,21 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    41 mins             █████████████████████████   98.21 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.79 % 
+Other                    4 hrs 18 mins       ███████████████████████░░   92.71 % 
+YAML                     20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
 
 🔥 Editors: 
-Chrome                   42 mins             █████████████████████████   100.00 % 
+Chrome                   4 hrs 39 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-Starward                 42 mins             █████████████████████████   100.00 % 
+Starward                 2 hrs 52 mins       ███████████████░░░░░░░░░░   61.64 % 
+Terracotta               1 hr 27 mins        ████████░░░░░░░░░░░░░░░░░   31.35 % 
+LxgwWenKai-Screen        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Everywhere               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+AstrBot                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 
 💻 Operating System: 
-Windows                  42 mins             █████████████████████████   100.00 % 
+Windows                  4 hrs 39 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,6 +105,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 29/07/2026 19:52:06 UTC
+ Last Updated on 30/07/2026 20:01:07 UTC
 <!--END_SECTION:waka-->
 
