@@ -20,11 +20,11 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-191%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2052%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,23 +65,23 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    6 hrs 36 mins       ██████████████████████░░░   86.94 % 
-YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.96 % 
+Other                    6 hrs 52 mins       ██████████████████████░░░   87.35 % 
+YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 35 mins       █████████████████████████   99.91 % 
+Chrome                   7 hrs 52 mins       █████████████████████████   99.91 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-Terracotta               2 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   39.31 % 
-Starward                 2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   37.75 % 
-Everywhere               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
-LxgwWenKai-Screen        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
-Windows-MCP              15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+Terracotta               2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
+Starward                 2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.43 % 
+Everywhere               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
+continuum                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
+LxgwWenKai-Screen        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
 
 💻 Operating System: 
-Windows                  7 hrs 35 mins       █████████████████████████   100.00 % 
+Windows                  7 hrs 52 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +107,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 31/07/2026 20:03:32 UTC
+ Last Updated on 01/08/2026 19:42:20 UTC
 <!--END_SECTION:waka-->
 
