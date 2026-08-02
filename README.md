@@ -65,23 +65,23 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    6 hrs 52 mins       ██████████████████████░░░   87.35 % 
-YAML                     59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+Other                    7 hrs 19 mins       ██████████████████████░░░   86.70 % 
+YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🔥 Editors: 
-Chrome                   7 hrs 52 mins       █████████████████████████   99.91 % 
+Chrome                   8 hrs 26 mins       █████████████████████████   99.91 % 
 VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-Terracotta               2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   37.93 % 
-Starward                 2 hrs 52 mins       █████████░░░░░░░░░░░░░░░░   36.43 % 
-Everywhere               36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 % 
-continuum                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.46 % 
-LxgwWenKai-Screen        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 % 
+Terracotta               2 hrs 59 mins       █████████░░░░░░░░░░░░░░░░   35.36 % 
+Starward                 2 hrs 52 mins       ████████░░░░░░░░░░░░░░░░░   33.95 % 
+Everywhere               1 hr 4 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.63 % 
+continuum                21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 % 
+LxgwWenKai-Screen        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
 
 💻 Operating System: 
-Windows                  7 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 26 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +107,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 01/08/2026 19:42:20 UTC
+ Last Updated on 02/08/2026 19:42:56 UTC
 <!--END_SECTION:waka-->
 
