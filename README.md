@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-192%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2052%20mins-blue?style=flat)
 
@@ -65,25 +65,25 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    12 hrs 58 mins      █████████████████████░░░░   85.49 % 
-YAML                     1 hr 38 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
-JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    13 hrs 57 mins      ██████████████████████░░░   86.37 % 
+YAML                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+JavaScript               33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.49 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Chrome                   14 hrs 54 mins      █████████████████████████   98.33 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Chrome                   15 hrs 53 mins      █████████████████████████   98.43 % 
+VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 
 🐱‍💻 Projects: 
-Terracotta               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   19.81 % 
-Starward                 2 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   18.91 % 
-TSF-Autorenew            2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
-NewThing-T               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
-zteOnu                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Terracotta               3 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+TSF-Autorenew            2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Starward                 2 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+dlvr                     1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+NewThing-T               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 
 💻 Operating System: 
-Windows                  15 hrs 10 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 9 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,6 +109,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 04/08/2026 20:08:51 UTC
+ Last Updated on 05/08/2026 20:07:09 UTC
 <!--END_SECTION:waka-->
 
