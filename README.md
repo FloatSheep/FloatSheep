@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-193%20hrs%2042%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2052%20mins-blue?style=flat)
 
@@ -65,25 +65,25 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    12 hrs 43 mins      ██████████████████████░░░   87.83 % 
-JavaScript               1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
-YAML                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    17 hrs 10 mins      █████████████████████░░░░   84.92 % 
+JavaScript               2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.40 % 
+YAML                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 57 mins      ████████████████████████░   96.41 % 
-VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+Chrome                   19 hrs 42 mins      ████████████████████████░   97.43 % 
+VS Code                  31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🐱‍💻 Projects: 
-dlvr                     2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.66 % 
-TSF-Autorenew            2 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-verity-api               1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.60 % 
-NewThing-T               1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
-zteOnu                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.76 % 
+dlvr                     2 hrs 59 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+mc-verity-je-proxy       2 hrs 46 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+TSF-Autorenew            2 hrs 11 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+verity-api               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+NewThing-T               1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 % 
 
 💻 Operating System: 
-Windows                  14 hrs 28 mins      █████████████████████████   100.00 % 
+Windows                  20 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -109,6 +109,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:07:40 UTC
+ Last Updated on 09/08/2026 19:11:03 UTC
 <!--END_SECTION:waka-->
 
