@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-195%20hrs%2041%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-196%20hrs%208%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2052%20mins-blue?style=flat)
 
@@ -65,23 +65,21 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    15 hrs 45 mins      ██████████████████████░░░   86.20 % 
-JavaScript               2 hrs 30 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
-JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    17 hrs 7 mins       ██████████████████████░░░   87.03 % 
+JavaScript               2 hrs 33 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.97 % 
 
 🔥 Editors: 
-Chrome                   18 hrs 1 min        █████████████████████████   98.56 % 
-VS Code                  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
+Chrome                   19 hrs 40 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-motrix-next              2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-mc-verity-je-proxy       2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.14 % 
-SPlayer-Next             1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-verity-api               1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-OneDrive-Worker-API      1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+OneDrive-Worker-API      3 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.63 % 
+motrix-next              2 hrs 47 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.22 % 
+mc-verity-je-proxy       2 hrs 46 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+SPlayer-Next             1 hr 49 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.28 % 
+genshin-fps-unlock       1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.01 % 
 
 💻 Operating System: 
-Windows                  18 hrs 17 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -107,6 +105,6 @@ Vue                      2 repos             ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 13/08/2026 19:34:13 UTC
+ Last Updated on 14/08/2026 19:28:16 UTC
 <!--END_SECTION:waka-->
 
