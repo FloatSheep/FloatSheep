@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
@@ -65,31 +65,31 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    19 hrs 31 mins      ███████████████████░░░░░░   76.25 % 
-JavaScript               2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-TypeScript               2 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.78 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.31 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Other                    17 hrs 4 mins       ████████████████████░░░░░   78.20 % 
+TypeScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
+JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
+JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-Chrome                   23 hrs 21 mins      ███████████████████████░░   91.20 % 
-VS Code                  2 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Chrome                   19 hrs 34 mins      ██████████████████████░░░   89.68 % 
+VS Code                  2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
 
 🐱‍💻 Projects: 
-OneDrive-Worker-API      3 hrs 7 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.23 % 
-motrix-next              2 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
-SPlayer-Next             2 hrs 20 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-DuKu                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.18 % 
-genshin-fps-unlock       1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.92 % 
+OneDrive-Worker-API      3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
+motrix-next              2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
+DuKu                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+genshin-fps-unlock       1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
+amll-editor              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
 
 💻 Operating System: 
-Windows                  25 hrs 36 mins      █████████████████████████   100.00 % 
+Windows                  21 hrs 49 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.3%)
+⏱ AI Coding Time: 4 mins (0.35%)
 
 ✍️ 0 lines written by AI, 828 lines written by hand (0.0% AI-written)
 
@@ -123,6 +123,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 16/08/2026 18:56:00 UTC
+ Last Updated on 17/08/2026 19:07:43 UTC
 <!--END_SECTION:waka-->
 
