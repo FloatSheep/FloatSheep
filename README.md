@@ -65,31 +65,31 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    17 hrs 4 mins       ████████████████████░░░░░   78.20 % 
-TypeScript               2 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-JavaScript               1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.03 % 
-JSON                     20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+Other                    12 hrs 17 mins      ███████████████████░░░░░░   74.62 % 
+TypeScript               2 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.21 % 
+JavaScript               57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-Chrome                   19 hrs 34 mins      ██████████████████████░░░   89.68 % 
-VS Code                  2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Chrome                   14 hrs 13 mins      ██████████████████████░░░   86.33 % 
+VS Code                  2 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.67 % 
 
 🐱‍💻 Projects: 
-OneDrive-Worker-API      3 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-motrix-next              2 hrs 44 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.56 % 
-DuKu                     1 hr 50 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
-genshin-fps-unlock       1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.12 % 
-amll-editor              1 hr 15 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+OneDrive-Worker-API      2 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.99 % 
+DuKu                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
+genshin-fps-unlock       1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+amll-editor              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 % 
+BetterRTX-Installer      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
 
 💻 Operating System: 
-Windows                  21 hrs 49 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 28 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.35%)
+⏱ AI Coding Time: 4 mins (0.46%)
 
 ✍️ 0 lines written by AI, 828 lines written by hand (0.0% AI-written)
 
@@ -123,6 +123,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 17/08/2026 19:07:43 UTC
+ Last Updated on 18/08/2026 19:06:58 UTC
 <!--END_SECTION:waka-->
 
