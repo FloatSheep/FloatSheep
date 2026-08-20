@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 88.3 kB Used in GitHub's Storage 
+> 📦 88.2 kB Used in GitHub's Storage 
  > 
 > 🏆 30 Contributions in the Year 2026
  > 
@@ -65,25 +65,25 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    11 hrs 12 mins      ██████████████████░░░░░░░   72.81 % 
-TypeScript               2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.23 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Other                    11 hrs 10 mins      ██████████████████░░░░░░░   72.76 % 
+TypeScript               2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
+JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 7 mins       █████████████████████░░░░   85.35 % 
-VS Code                  2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Chrome                   13 hrs 6 mins       █████████████████████░░░░   85.33 % 
+VS Code                  2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
 
 🐱‍💻 Projects: 
-DuKu                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-genshin-fps-unlock       1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-OneDrive-Worker-API      1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-amll-editor              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.18 % 
-BetterRTX-Installer      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+DuKu                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
+genshin-fps-unlock       1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
+OneDrive-Worker-API      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+amll-editor              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+BetterRTX-Installer      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
 
 💻 Operating System: 
-Windows                  15 hrs 23 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,6 +123,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2026 19:02:37 UTC
+ Last Updated on 20/08/2026 19:10:24 UTC
 <!--END_SECTION:waka-->
 
