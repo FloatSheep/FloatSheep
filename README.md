@@ -65,31 +65,31 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    11 hrs 10 mins      ██████████████████░░░░░░░   72.76 % 
-TypeScript               2 hrs 50 mins       █████░░░░░░░░░░░░░░░░░░░░   18.47 % 
-JavaScript               57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    7 hrs 24 mins       █████████████████░░░░░░░░   66.47 % 
+TypeScript               2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
+JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
 
 🔥 Editors: 
-Chrome                   13 hrs 6 mins       █████████████████████░░░░   85.33 % 
-VS Code                  2 hrs 15 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.67 % 
+Chrome                   8 hrs 53 mins       ████████████████████░░░░░   79.77 % 
+VS Code                  2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
 
 🐱‍💻 Projects: 
-DuKu                     1 hr 50 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.98 % 
-genshin-fps-unlock       1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-OneDrive-Worker-API      1 hr 30 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
-amll-editor              1 hr 15 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
-BetterRTX-Installer      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
+DuKu                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+amll-editor              1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
+TEESimulator-RS          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
+cheese                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Chat2API                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
 
 💻 Operating System: 
-Windows                  15 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 8 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.49%)
+⏱ AI Coding Time: 4 mins (0.68%)
 
 ✍️ 0 lines written by AI, 828 lines written by hand (0.0% AI-written)
 
@@ -123,6 +123,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 20/08/2026 19:10:24 UTC
+ Last Updated on 21/08/2026 19:06:40 UTC
 <!--END_SECTION:waka-->
 
