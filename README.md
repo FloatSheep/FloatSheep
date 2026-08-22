@@ -65,31 +65,31 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    7 hrs 24 mins       █████████████████░░░░░░░░   66.47 % 
-TypeScript               2 hrs 50 mins       ██████░░░░░░░░░░░░░░░░░░░   25.47 % 
-JavaScript               30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Other                    5 hrs 8 mins        ███████████████░░░░░░░░░░   58.69 % 
+TypeScript               2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
+JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 
 🔥 Editors: 
-Chrome                   8 hrs 53 mins       ████████████████████░░░░░   79.77 % 
-VS Code                  2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+Chrome                   6 hrs 30 mins       ███████████████████░░░░░░   74.26 % 
+VS Code                  2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
 
 🐱‍💻 Projects: 
-DuKu                     1 hr 50 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-amll-editor              1 hr 15 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-TEESimulator-RS          1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.25 % 
-cheese                   59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Chat2API                 50 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+DuKu                     1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
+amll-editor              1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
+cheese                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+KuGouMusicApi            42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
+vite-plugin-electron     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
 
 💻 Operating System: 
-Windows                  11 hrs 8 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.68%)
+⏱ AI Coding Time: 4 mins (0.86%)
 
 ✍️ 0 lines written by AI, 828 lines written by hand (0.0% AI-written)
 
@@ -123,6 +123,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 21/08/2026 19:06:40 UTC
+ Last Updated on 22/08/2026 18:57:53 UTC
 <!--END_SECTION:waka-->
 
