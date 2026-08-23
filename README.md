@@ -65,45 +65,25 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    5 hrs 8 mins        ███████████████░░░░░░░░░░   58.69 % 
-TypeScript               2 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
-JavaScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-JSON                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.84 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    47 mins             ███████████████████████░░   91.30 % 
+TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
 
 🔥 Editors: 
-Chrome                   6 hrs 30 mins       ███████████████████░░░░░░   74.26 % 
-VS Code                  2 hrs 15 mins       ██████░░░░░░░░░░░░░░░░░░░   25.74 % 
+Chrome                   51 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-DuKu                     1 hr 50 mins        █████░░░░░░░░░░░░░░░░░░░░   21.01 % 
-amll-editor              1 hr 15 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-cheese                   59 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
-KuGouMusicApi            42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-vite-plugin-electron     34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+KuGouMusicApi            24 mins             ████████████░░░░░░░░░░░░░   46.98 % 
+AUTO-MAS                 20 mins             ██████████░░░░░░░░░░░░░░░   40.29 % 
+StarRailCopilot          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
 
 💻 Operating System: 
-Windows                  8 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  51 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 mins (0.86%)
-
-✍️ 0 lines written by AI, 828 lines written by hand (0.0% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 1 AI Sessions, 8 AI Prompts
-
-🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 298 characters per prompt
-🔁 Iterative Prompter — average 8 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -123,6 +103,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 22/08/2026 18:57:53 UTC
+ Last Updated on 23/08/2026 18:57:25 UTC
 <!--END_SECTION:waka-->
 
