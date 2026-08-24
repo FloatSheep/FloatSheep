@@ -28,7 +28,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 88.2 kB Used in GitHub's Storage 
+> 📦 88.3 kB Used in GitHub's Storage 
  > 
 > 🏆 30 Contributions in the Year 2026
  > 
@@ -65,19 +65,16 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    47 mins             ███████████████████████░░   91.30 % 
-TypeScript               4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-KuGouMusicApi            24 mins             ████████████░░░░░░░░░░░░░   46.98 % 
-AUTO-MAS                 20 mins             ██████████░░░░░░░░░░░░░░░   40.29 % 
-StarRailCopilot          6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  51 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,6 +100,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 23/08/2026 18:57:25 UTC
+ Last Updated on 24/08/2026 19:09:55 UTC
 <!--END_SECTION:waka-->
 
