@@ -20,7 +20,7 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-199%20hrs%2053%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2012%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
@@ -65,19 +65,20 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    55 mins             ███████████████████░░░░░░   74.38 % 
-TypeScript               18 mins             ██████░░░░░░░░░░░░░░░░░░░   25.62 % 
+Other                    1 hr 40 mins        █████████████████████░░░░   82.16 % 
+TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
 
 🔥 Editors: 
-Chrome                   1 hr 14 mins        █████████████████████████   100.00 % 
+Chrome                   2 hrs 1 min         █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-windows-cursor-scheme-fix53 mins             ██████████████████░░░░░░░   72.82 % 
-SPlayer-Next             11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-StarRailCopilot          9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.31 % 
+windows-cursor-scheme-fix1 hr 39 mins        ████████████████████░░░░░   81.22 % 
+SPlayer-Next             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
+StarRailCopilot          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
+BakaXL                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
 
 💻 Operating System: 
-Windows                  1 hr 14 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -103,6 +104,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 12/09/2026 20:47:19 UTC
+ Last Updated on 13/09/2026 21:01:19 UTC
 <!--END_SECTION:waka-->
 
