@@ -65,20 +65,18 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 40 mins        █████████████████████░░░░   82.16 % 
-TypeScript               21 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+Other                    45 mins             ████████████████████████░   94.18 % 
+TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 1 min         █████████████████████████   100.00 % 
+Chrome                   47 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-windows-cursor-scheme-fix1 hr 39 mins        ████████████████████░░░░░   81.22 % 
-SPlayer-Next             11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.02 % 
-StarRailCopilot          9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-BakaXL                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.29 % 
+windows-cursor-scheme-fix45 mins             ████████████████████████░   94.18 % 
+BakaXL                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
 
 💻 Operating System: 
-Windows                  2 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  47 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,6 +102,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 18/09/2026 21:06:58 UTC
+ Last Updated on 19/09/2026 20:54:46 UTC
 <!--END_SECTION:waka-->
 
