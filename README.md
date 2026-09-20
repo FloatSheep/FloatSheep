@@ -24,7 +24,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,18 +65,16 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    45 mins             ████████████████████████░   94.18 % 
-TypeScript               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Chrome                   47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-windows-cursor-scheme-fix45 mins             ████████████████████████░   94.18 % 
-BakaXL                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  47 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,6 +100,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 20:54:46 UTC
+ Last Updated on 20/09/2026 20:58:59 UTC
 <!--END_SECTION:waka-->
 
