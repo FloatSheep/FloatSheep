@@ -65,20 +65,21 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    24 mins             ████████████████████░░░░░   78.33 % 
-TypeScript               6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.67 % 
+Other                    1 hr 4 mins         ███████████████████░░░░░░   74.47 % 
+TypeScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
 
 🔥 Editors: 
-Chrome                   31 mins             █████████████████████████   100.00 % 
+Chrome                   1 hr 26 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rayburst                 24 mins             ███████████████████░░░░░░   77.47 % 
-windows-cursor-scheme-fix6 mins              █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
-xournalpp                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
-tauri                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+rayburst                 33 mins             ██████████░░░░░░░░░░░░░░░   38.16 % 
+SPlayer-Next             22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
+hazel                    19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
+windows-cursor-scheme-fix6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+fluentui-system-icons    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  31 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -104,6 +105,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 30/09/2026 22:28:44 UTC
+ Last Updated on 01/10/2026 22:50:39 UTC
 <!--END_SECTION:waka-->
 
