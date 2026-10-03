@@ -24,7 +24,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,21 +65,21 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 4 mins         ███████████████████░░░░░░   74.47 % 
-TypeScript               22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.53 % 
+Other                    1 hr 28 mins        ███████████████████░░░░░░   74.34 % 
+TypeScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
 
 🔥 Editors: 
-Chrome                   1 hr 26 mins        █████████████████████████   100.00 % 
+Chrome                   1 hr 58 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-rayburst                 33 mins             ██████████░░░░░░░░░░░░░░░   38.16 % 
-SPlayer-Next             22 mins             ██████░░░░░░░░░░░░░░░░░░░   25.57 % 
-hazel                    19 mins             ██████░░░░░░░░░░░░░░░░░░░   22.20 % 
-windows-cursor-scheme-fix6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
-fluentui-system-icons    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+qwen-api                 53 mins             ███████████░░░░░░░░░░░░░░   44.65 % 
+SPlayer-Next             32 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
+hazel                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
+rayburst                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
+fluentui-system-icons    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
 
 💻 Operating System: 
-Windows                  1 hr 26 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,6 +105,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 02/10/2026 22:26:59 UTC
+ Last Updated on 03/10/2026 21:38:35 UTC
 <!--END_SECTION:waka-->
 
