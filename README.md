@@ -20,11 +20,11 @@
 ## 📈Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2036%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,21 +65,21 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    1 hr 28 mins        ███████████████████░░░░░░   74.34 % 
-TypeScript               30 mins             ██████░░░░░░░░░░░░░░░░░░░   25.66 % 
+Other                    2 hrs 46 mins       █████████████████████░░░░   84.49 % 
+TypeScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
 
 🔥 Editors: 
-Chrome                   1 hr 58 mins        █████████████████████████   100.00 % 
+Chrome                   3 hrs 16 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qwen-api                 53 mins             ███████████░░░░░░░░░░░░░░   44.65 % 
-SPlayer-Next             32 mins             ███████░░░░░░░░░░░░░░░░░░   27.72 % 
-hazel                    19 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-rayburst                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.17 % 
-fluentui-system-icons    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+qwen-api                 2 hrs 10 mins       █████████████████░░░░░░░░   66.55 % 
+SPlayer-Next             32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
+hazel                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
+rayburst                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+fluentui-system-icons    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
 
 💻 Operating System: 
-Windows                  1 hr 58 mins        █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,6 +105,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 03/10/2026 21:38:35 UTC
+ Last Updated on 04/10/2026 21:45:59 UTC
 <!--END_SECTION:waka-->
 
