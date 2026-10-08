@@ -65,21 +65,18 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 46 mins       █████████████████████░░░░   84.49 % 
-TypeScript               30 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
+Other                    2 hrs 6 mins        ██████████████████████░░░   89.25 % 
+TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
 
 🔥 Editors: 
-Chrome                   3 hrs 16 mins       █████████████████████████   100.00 % 
+Chrome                   2 hrs 21 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qwen-api                 2 hrs 10 mins       █████████████████░░░░░░░░   66.55 % 
-SPlayer-Next             32 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.75 % 
-hazel                    19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-rayburst                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-fluentui-system-icons    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+qwen-api                 2 hrs 10 mins       ███████████████████████░░   92.38 % 
+SPlayer-Next             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -105,6 +102,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 07/10/2026 23:15:13 UTC
+ Last Updated on 08/10/2026 23:30:36 UTC
 <!--END_SECTION:waka-->
 
