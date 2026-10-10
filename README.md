@@ -65,18 +65,16 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-Other                    2 hrs 6 mins        ██████████████████████░░░   89.25 % 
-TypeScript               15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Other                    1 hr 17 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Chrome                   2 hrs 21 mins       █████████████████████████   100.00 % 
+Chrome                   1 hr 17 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-qwen-api                 2 hrs 10 mins       ███████████████████████░░   92.38 % 
-SPlayer-Next             10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+qwen-api                 1 hr 17 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 17 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -102,6 +100,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 09/10/2026 22:48:34 UTC
+ Last Updated on 10/10/2026 21:55:49 UTC
 <!--END_SECTION:waka-->
 
