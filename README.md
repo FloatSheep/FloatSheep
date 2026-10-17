@@ -24,7 +24,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-1%20hr%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -65,16 +65,21 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    1 hr 16 mins        ██████████████████░░░░░░░   73.61 % 
+TypeScript               27 mins             ███████░░░░░░░░░░░░░░░░░░   26.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   1 hr 44 mins        █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+KuGouMusicApi            1 hr 13 mins        ██████████████████░░░░░░░   70.58 % 
+folia-major              8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+qwen2api                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 % 
+rayburst                 7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+folia-sonnet             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.52 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,6 +105,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 16/10/2026 21:30:05 UTC
+ Last Updated on 17/10/2026 20:48:43 UTC
 <!--END_SECTION:waka-->
 
