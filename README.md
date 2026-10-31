@@ -65,16 +65,19 @@ Sunday                   107 commits         ████░░░░░░░�
 🕑︎ Time Zone: Asia/Hong_Kong
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Other                    4 mins              █████████████████░░░░░░░░   69.15 % 
+TypeScript               1 min               ████████░░░░░░░░░░░░░░░░░   30.85 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Chrome                   6 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+KuGouMusicApi            3 mins              █████████████░░░░░░░░░░░░   51.61 % 
+SPlayer-Next             2 mins              ███████████░░░░░░░░░░░░░░   43.13 % 
+electron-invox           0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  6 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,6 +103,6 @@ Vue                      2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/FloatSheep/FloatSheep/main/assets/bar_graph.png)
 
 
- Last Updated on 30/10/2026 22:33:56 UTC
+ Last Updated on 31/10/2026 21:47:33 UTC
 <!--END_SECTION:waka-->
 
